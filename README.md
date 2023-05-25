@@ -4,16 +4,15 @@
 
 1. [Introduction](#introduction)
 2. [Variables](#variables)
-3. [Functions](#functions)
-4. 
-5. [Classes](#classes)
-6. [SOLID](#solid)
-7. [Testing](#testing)
-8. [Concurrency](#concurrency)
-9. [Error Handling](#error-handling)
-10. [Formatting](#formatting)
-11. [Comments](#comments)
-12. [Translation](#translation)
+3. [Functions](#functions) 
+4. [Classes](#classes)
+5. [SOLID](#solid)
+6. [Testing](#testing)
+7. [Concurrency](#concurrency)
+8. [Error Handling](#error-handling)
+9. [Formatting](#formatting)
+10. [Comments](#comments)
+11. [Translation](#translation)
 
 ## Introduction
 
