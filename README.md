@@ -6,7 +6,7 @@
 2. [Variables](#variables) ⭐️
 3. [Functions](#functions) ⭐️
 4. [Classes](#classes) ⭐️
-5. [SOLID](#solid)
+5. [SOLID](#solid) ⭐️
 6. [Testing](#testing)
 7. [Concurrency](#concurrency)
 8. [Error Handling](#error-handling)
