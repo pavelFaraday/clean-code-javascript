@@ -3,16 +3,15 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Variables](#variables)
-3. [Functions](#functions) 
-4. [Classes](#classes)
+2. [Variables](#variables) ⭐️
+3. [Functions](#functions) ⭐️
+4. [Classes](#classes) ⭐️
 5. [SOLID](#solid)
 6. [Testing](#testing)
 7. [Concurrency](#concurrency)
-8. [Error Handling](#error-handling)
-9. [Formatting](#formatting)
-10. [Comments](#comments)
-11. [Translation](#translation)
+8. [Error Handling](#error-handling) ⭐️
+9. [Formatting](#formatting) ⭐️
+10. [Comments](#comments) ⭐️
 
 ## Introduction
 
